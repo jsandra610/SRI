@@ -1,3 +1,2 @@
-| Ejercicio | Descripción |
-| ......... | ........... |
-| 
+| Actividad | Descripción |
+| --------- | ----------- |
