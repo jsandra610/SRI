@@ -4,6 +4,7 @@
 
 | ACTIVIDAD 0.5 | Captura |
 | ------------- | ------- |
-| Ejemplo 1 | ![Descripción de la imagen](https://imgur.com/a/kDXlan3)
+| Ejemplo 1 | <img width="855" height="176" alt="Captura de pantalla 2026-09-28 201132" src="https://github.com/user-attachments/assets/610af257-493c-45bf-9489-e8060989990c" /> |
+
 
 
