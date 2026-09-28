@@ -4,4 +4,6 @@
 
 | ACTIVIDAD 0.5 | Captura |
 | ------------- | ------- |
-| Ejemplo 1 | (https://imgur.com/a/kDXlan3)
+| Ejemplo 1 | ![Descripción de la imagen](https://imgur.com/a/kDXlan3)
+
+
