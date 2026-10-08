@@ -5,7 +5,8 @@
 | ACTIVIDAD 0.5 | Captura |
 | ------------- | ------- |
 | Ejemplo 1 | <img width="1919" height="306" alt="image" src="https://github.com/user-attachments/assets/7a474501-b683-4166-bd8d-c024c1148680" />
- |
+|
 
-
-
+| Nombre actividad | Enlace |
+| ---------------- | ------ |
+| Instalcion Apache | [Documento](https://docs.google.com/document/d/1ox4l7ezsI9tUFf8j9li_WJwqgalWMhJCOI6CZg2Rgzk/edit?usp=sharing) |
