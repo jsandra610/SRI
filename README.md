@@ -1,6 +1,6 @@
 | Actividad | Descripción |
 | --------- | ----------- |
-| [Actividad de introducción](https://docs.google.com/document/d/1UKX3RuKmIna171FFtIhn7K6BrG2WFx4cMPbzx1qYiGA/edit?usp=sharing) | Actividades introductorias de protocolos web, comandos de red y configuración del entorno de trabajo |
+| [Actividad #1](https://docs.google.com/document/d/1UKX3RuKmIna171FFtIhn7K6BrG2WFx4cMPbzx1qYiGA/edit?usp=sharing) | Actividades introductorias de protocolos web, comandos de red y configuración del entorno de trabajo |
 | [Actividad #2.1](https://docs.google.com/document/d/1xSjya-pdkLJzPpjiHB_ZRH8VrXDhGuheZrfQZrJbrDI/edit?usp=sharing) | En esta práctica hemos realizado la configuración fundamental y securización básica de un servidor web Apache sobre Ubuntu |
 
 | ACTIVIDAD 0.5 | Captura |
