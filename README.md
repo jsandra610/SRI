@@ -14,3 +14,4 @@
 | Actividad 2 | [Enlace](https://docs.google.com/document/d/1xSjya-pdkLJzPpjiHB_ZRH8VrXDhGuheZrfQZrJbrDI/edit?usp=sharing) |
 | Actividad 2.2 | [Enlace](https://docs.google.com/document/d/1pcQLkiRjonOywY6FghZCh4aErqmrnuQ8GCBpMG_KAFA/edit?usp=sharing) |
 | Actividad 3 | [Enlace](https://docs.google.com/document/d/1nEYGP8kHKxovy1Ze7ErPyX2nc9n6gp7RiKydkBHv1pc/edit?usp=sharing) |
+| Actividad 4 | [Enlace](https://docs.google.com/document/d/1PZEbN8P_-r2DkbTea1xOSPADF-LDoywAX9YjmXrt1CQ/edit?usp=sharing) |
