@@ -11,6 +11,6 @@
 |
 
 
-| Tema 1. Servidores Web | |
+| Tema 1. Servidores Web | Enlaces |
 | ---------------- | ------ |
-| Instalcion Apache | [Documento](https://docs.google.com/document/d/1ox4l7ezsI9tUFf8j9li_WJwqgalWMhJCOI6CZg2Rgzk/edit?usp=sharing) |
+| Actividad 1 | [Documento](https://docs.google.com/document/d/1ox4l7ezsI9tUFf8j9li_WJwqgalWMhJCOI6CZg2Rgzk/edit?usp=sharing) |
